@@ -1,0 +1,12 @@
+{
+    "name": "session-tracking-system",
+    "version": "1.0.0",
+    "description": "Real-time communication system for managing interactions between IoT devices and servers using Node.js.",
+    "main": "server.js",
+    "scripts": {
+        "start": "node server.js"
+    },
+    "dependencies": {
+        "ws": "^8.2.3"
+    }
+}
